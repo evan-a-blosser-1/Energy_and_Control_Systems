@@ -9,7 +9,7 @@ This is a State Estimation in Oil Well Drilling. Utilizng a design *Luenberger O
 
 Follow this link for the more information: [Full Report](HW5/Blosser_Evan_HW5.pdf)
 
-Results of Kalman filter application: 
+## Results of Kalman filter application: 
 ![...](HW5/Kalman.jpg)
 
 
